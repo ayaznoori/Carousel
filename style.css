@@ -17,7 +17,8 @@
 }
 #icontainer>div{
     width: 200px;
- 
+    text-align: center;
+    color: green;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     
 }
@@ -47,4 +48,5 @@
 #left:hover{
     transform: scale(1.2);
 }
+ 
 /* Dont Forget to give Credit :- By Mohammad Ayaz Noori */
